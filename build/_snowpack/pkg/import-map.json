@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "axios": "./axios.js",
+    "lodash": "./lodash.js",
+    "luxon": "./luxon.js",
+    "react": "./react.js",
+    "react-dom": "./react-dom.js",
+    "react-router": "./react-router.js",
+    "react-router-dom": "./react-router-dom.js"
+  }
+}
